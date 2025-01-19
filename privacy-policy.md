@@ -1,6 +1,6 @@
 # Privacy Policy for Kore Chrome Extension
 
-Last updated: [Current Date]
+Last updated: January 18th, 2025
 
 ## Data Collection and Usage
 Kore ("we", "our", or "us") collects and processes the following data to provide insights about your digital footprint:
@@ -38,4 +38,4 @@ You have the right to:
 We reserve the right to update this privacy policy. Users will be notified of any significant changes.
 
 ## Contact
-For any questions regarding this privacy policy, please contact us at [Your Contact Email].
+For any questions regarding this privacy policy, please contact us at adityas129@gmail.com.
